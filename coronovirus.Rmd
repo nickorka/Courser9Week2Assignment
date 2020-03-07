@@ -49,6 +49,6 @@ m <- df %>%
 
 ```
 ## Data for **`r format(lastDate, "%B %d, %Y")`**
-```{r, echo=F}
+```{r, echo=F, cache=T}
 m
 ```
